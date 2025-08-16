@@ -1,7 +1,8 @@
-# 👋 Heyyo, I'm Neazah  
+# 👋 Heyyo, I'm Neazah
 
-💻 Just a backend newbie who vibes with code, coffee ☕, and a lil’ chaos 💿🔥  
-✨ Falling in love with backend world 🌐  
+💻 Just a programmer rookie who vibes with code, coffee ☕, and a lil’ chaos 💿🔥
+✨ Currently falling in love with the world of programming 🌐
+⚡ Exploring, breaking, and learning along the way.
 
 ## 🎧 Chill & Code
 
