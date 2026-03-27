@@ -1,7 +1,8 @@
 # Neazah 👋
 
 Just a student who recently started learning programming 💻  
-Still trying to understand how things work, writing simple code, and learning step by step.
+Still exploring how systems work and building simple applications step by step.  
+Currently focused on **backend development**, especially in logic and data-driven systems.
 
 ## Tech Stack
 
@@ -19,11 +20,17 @@ Still trying to understand how things work, writing simple code, and learning st
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)
 
-## Currently Learning 🚀
+## Focus 🚀
 
-- Basic web development  
-- Backend fundamentals  
-- Building simple apps  
+- Backend development (Laravel & PHP)  
+- Database design & data management  
+- Building data-driven applications  
+
+## Approach 🧠
+
+- Focus on system logic and data flow  
+- Comfortable working with controllers and database structure  
+- Keep UI simple, clean, and functional  
 
 ## Mindset ✨
 
